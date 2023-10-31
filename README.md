@@ -1,4 +1,4 @@
-# 004-vault-updates
+# vault-updates
 
 Week 6: 10/29 - 11/04
 
