@@ -1,6 +1,6 @@
 # vault-updates
 
-Week 6: 10/29 - 11/04
+Week 6 + 7: 10/29 - 11/11
 
 Major design overhaul for vault project, repo for documenting progress and design brainstorming.
 
